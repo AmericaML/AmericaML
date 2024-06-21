@@ -33,9 +33,9 @@ Skills
 
 Let's Connect!
 
-I'm excited about collaborations 
+I'm excited about collaborations/opportunities 
 - tech innovation
-- travel tech,
+- travel tech
 - language learning tools
 - wearable tech projects
 - anything that combines creativity with cutting-edge technology.
