@@ -4,7 +4,12 @@ Hey, I'm America!
 
 👩‍💻 Women in Tech |  🌍 Globe Trotter | 🧩 Puzzler  | 🌟 Wearable Tech Enthusiast
 
-Welcome to my GitHub! 🌟 Woman in tech with a love for exploring new places ✈️, learning languages 🌍, solving puzzles 🧩, and experimenting with wearable technology. My journey blends creativity with innovation, making everyday tech more exciting! 💡
+Welcome to my GitHub! 
+- 🌟 Woman in tech with
+- a love for exploring new places ✈️, 
+- learning languages 🌍, 
+- solving puzzles 🧩 
+- experimenting with wearable technology. My journey blends creativity with innovation, making everyday tech more exciting! 💡
 
 
 What I'm Learning
