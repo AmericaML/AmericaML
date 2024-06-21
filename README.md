@@ -38,6 +38,6 @@ I'm excited about collaborations/opportunities
 - travel tech
 - language learning tools
 - wearable tech projects
-- anything that combines creativity with cutting-edge technology.
+- anything that combines creativity with cutting-edge technology
 
 Feel free to reach out for brainstorming or just to chat about tech and adventures! 🚀
