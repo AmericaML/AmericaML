@@ -33,5 +33,5 @@ Skills
 
 Let's Connect!
 
-Collaboration Opportunities
+Collaboration/ Opportunities
 I'm excited about collaborations in tech innovation, travel tech, language learning tools, wearable tech projects, and anything that combines creativity with cutting-edge technology. Feel free to reach out for brainstorming or just to chat about tech and adventures! 🚀
