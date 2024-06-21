@@ -2,7 +2,7 @@ Hello, World! 👋
 
 Hey, I'm America!
 
-👩‍💻 Women in Tech | ✈️ Travel Enthusiast | 🌍 Language Learner | 🧩 Puzzle Solver | 🌟 Wearable Tech Enthusiast
+👩‍💻 Women in Tech |  🌍 Globe Trotter | 🧩 Puzzler  | 🌟 Wearable Tech Enthusiast
 
 Welcome to my GitHub! 🌟 Woman in tech with a love for exploring new places ✈️, learning languages 🌍, solving puzzles 🧩, and experimenting with wearable technology. My journey blends creativity with innovation, making everyday tech more exciting! 💡
 
@@ -17,8 +17,6 @@ What I'm Learning
 
 Projects I'm Working On
 👩‍💻 Software Development: Building innovative applications, exploring open-source projects.
-✈️ Travel Blog: Sharing travel experiences with tech insights.
-🌍 Language Learning App: Creating tools to aid language acquisition.
 🧩 Puzzle Solver Bot: Developing algorithms for puzzle solving.
 🌟 Wearable Tech Prototypes: Designing and testing wearable gadgets.
 
@@ -28,6 +26,7 @@ Skills
 📱 Mobile Development: Android, iOS
 🌟 Wearable Tech: Design, Prototyping, IoT Integration
 🧩 Problem Solving: Algorithms, Logic Puzzles, Leetcode
+
 Let's Connect!
 
 Collaboration Opportunities
